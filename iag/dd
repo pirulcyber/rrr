@@ -1,0 +1,21 @@
+{
+  "breacher": {
+    "success": true,
+    "query": "1018080586709090364",
+    "type": "email",
+    "total": 0,
+    "breach_count": 0,
+    "stealer_count": 0,
+    "external_count": 0,
+    "results": [],
+    "response_time_ms": 141
+  },
+  "stealer": {
+    "success": true,
+    "query": "1018080586709090364",
+    "type": "domain",
+    "total": 0,
+    "results": [],
+    "response_time_ms": 3
+  }
+}
